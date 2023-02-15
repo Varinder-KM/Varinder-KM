@@ -1,4 +1,4 @@
-### Hi there 👋
+![Varinder's GitHub Banner](./assets/GithubHeader.jpg)
 
 <!--
 **Varinder-KM/Varinder-KM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
