@@ -10,8 +10,7 @@ Hi, I'm Varinder Kumar, Currently i am a B.tech CSE Student at Punjab Technical 
 
 ### Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgresql,html,css,javascript)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Tools
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,webflow,corel)](https://skillicons.dev)
