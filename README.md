@@ -33,8 +33,14 @@ Hi, I'm Varinder Kumar, I am third year CSE B.Tech Student at Punjab Technical U
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-47AAE9?&logo=Visual%20Studio%20Code)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Webflow](https://img.shields.io/badge/-Webflow-3E4DF7?&logo=Webflow)
-![Wordpress](https://img.shields.io/badge/-WordPress-207196?&logo=WordPress)
 ![Shopify](https://img.shields.io/badge/-Shopify-000?&logo=Shopify)
+
+
+
+
+
+
+
 
 
 
