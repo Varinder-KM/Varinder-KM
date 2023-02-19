@@ -4,14 +4,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Varinder-KM.Varinder-KM)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/varinder-kumar-6b2193230)
 
-Hi, I'm Varinder Kumar, Currently i am a B.tech CSE Student at Punjab Technical University at Punjab(India). I view my career in Data Domain field.
+Hi, I'm Varinder Kumar, I am third year CSE B.Tech Student at Punjab Technical University at Punjab (India). Apart from that i am a data Enthusiast person, i see my career in Data related domain.
 
-## :crossed_swords: Skills
+## :hammer_and_wrench: Skills :
 
-### Languages 
+### Languages :
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
@@ -22,7 +23,7 @@ Hi, I'm Varinder Kumar, Currently i am a B.tech CSE Student at Punjab Technical 
 
 
 
-### Technologies
+### Technologies :
 
 ![git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![github](https://img.shields.io/badge/-GitHub-000?&logo=github)
