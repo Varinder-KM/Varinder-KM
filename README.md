@@ -10,15 +10,15 @@ Hi, I'm Varinder Kumar, I am third year CSE B.Tech Student at Punjab Technical U
 
 ### Languages :
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
-![Scikit learn](https://img.shields.io/badge/-scikit_learn-000?&logo=scikit-learn)
+![Python](https://img.shields.io/badge/-Python-FFC300?&logo=Python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-34495E?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-34495E?&logo=MySQL)
+![Numpy](https://img.shields.io/badge/-Numpy-4B73C9?&logo=Numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-120751?&logo=Pandas)
+![Plotly](https://img.shields.io/badge/-Plotly-EC3A75?&logo=Plotly)
+![Scikit learn](https://img.shields.io/badge/-scikit_learn-3294C7?&logo=scikit-learn)
 ![HTML5](https://img.shields.io/badge/-HTML-000?&logo=Html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=Css3)
+![CSS](https://img.shields.io/badge/-CSS-254BDD?&logo=Css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 
@@ -27,13 +27,13 @@ Hi, I'm Varinder Kumar, I am third year CSE B.Tech Student at Punjab Technical U
 
 ![git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![github](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=tableau)
-![Excel](https://img.shields.io/badge/-MS_Excel-000?&logo=MicrosoftExcel)
+![Tableau](https://img.shields.io/badge/-Tableau-F5F5F5?&logo=tableau)
+![Excel](https://img.shields.io/badge/-MS_Excel-31BE7D?&logo=MicrosoftExcel)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-47AAE9?&logo=Visual%20Studio%20Code)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Webflow](https://img.shields.io/badge/-Webflow-000?&logo=Webflow)
-![Wordpress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+![Webflow](https://img.shields.io/badge/-Webflow-3E4DF7?&logo=Webflow)
+![Wordpress](https://img.shields.io/badge/-WordPress-207196?&logo=WordPress)
 ![Shopify](https://img.shields.io/badge/-Shopify-000?&logo=Shopify)
 
 
