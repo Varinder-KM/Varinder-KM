@@ -15,9 +15,10 @@ Hi, I'm Varinder Kumar, I am third year CSE B.Tech Student at Punjab Technical U
 ![MySQL](https://img.shields.io/badge/-MySQL-34495E?&logo=MySQL)
 ![Numpy](https://img.shields.io/badge/-Numpy-4B73C9?&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-120751?&logo=Pandas)
-![Plotly](https://img.shields.io/badge/-Plotly-EC3A75?&logo=Plotly)
+![Plotly](https://img.shields.io/badge/-Plotly-3D4D71?&logo=Plotly)
+![Folium](https://img.shields.io/badge/-Folium-13433F?&logo=folium)
 ![Scikit learn](https://img.shields.io/badge/-scikit_learn-3294C7?&logo=scikit-learn)
-![HTML5](https://img.shields.io/badge/-HTML-000?&logo=Html5)
+![HTML5](https://img.shields.io/badge/-HTML-E9E9E9?&logo=Html5)
 ![CSS](https://img.shields.io/badge/-CSS-254BDD?&logo=Css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
@@ -31,7 +32,7 @@ Hi, I'm Varinder Kumar, I am third year CSE B.Tech Student at Punjab Technical U
 ![Excel](https://img.shields.io/badge/-MS_Excel-31BE7D?&logo=MicrosoftExcel)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-47AAE9?&logo=Visual%20Studio%20Code)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-1D1D1D?&logo=Figma)
 ![Webflow](https://img.shields.io/badge/-Webflow-3E4DF7?&logo=Webflow)
 ![Shopify](https://img.shields.io/badge/-Shopify-000?&logo=Shopify)
 
