@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Varinder-KM.Varinder-KM)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/varinder-kumar-6b2193230)
 
-Hi, I'm Varinder Kumar, Currently i am a third year B.Tech Student at Punjab Technical University at Punjab (India) and my specialization is Computer Science Engineering. Apart from that i am a data Enthusiast person, i see my career in Data related domain.
+Hi, I'm Varinder Kumar, i am a final year B.tech Student in Gulzar Group of Institutes in Punjab.I enjoy utilizing Machine Learning to solve complex problems and turn data into valuable insights. With a sharp problem-solving ability, I am passionate about expanding my knowledge of emerging technologies.
 
 ## :hammer_and_wrench: Skills :
 
