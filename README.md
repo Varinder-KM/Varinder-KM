@@ -1,5 +1,5 @@
 
-## Hey!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">Hi there, I'm Varinder
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Varinder-KM.Varinder-KM)
